@@ -13,3 +13,21 @@ nav{
     background-color: green;
     display: flex;
 }
+
+main{
+    background-color: orange;
+    height: 70%;
+    justify-content: space-around;
+    display: flex;
+}
+
+.footer{
+    height: 80px;
+    width: 100%;
+    background-color: magenta;
+}
+
+#picca{
+    width: 10%;
+    height: 5%;
+}
