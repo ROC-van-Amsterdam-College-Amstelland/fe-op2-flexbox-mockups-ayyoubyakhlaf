@@ -1,3 +1,19 @@
 html, body{
     height: 100%;
 }
+
+body{
+    display: flex;
+}
+
+aside{
+    background-color: green;
+    width: 20%;
+    height: 100%;
+}
+
+main{
+    background-color: orange;
+    width: 80%;
+    height: 100%;
+}
