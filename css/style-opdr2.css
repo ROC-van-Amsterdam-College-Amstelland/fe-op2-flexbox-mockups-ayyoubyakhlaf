@@ -17,3 +17,23 @@ main{
     width: 80%;
     height: 100%;
 }
+
+.menu-button{
+    width: 175px;
+    height: 80px;
+    background-color: white;
+    margin: 30px;
+}
+
+.menu-button1{
+    width: 950px;
+    height: 160px;
+    background-color: fuchsia;
+    margin: 30px;
+}
+
+img{
+    width: 20%;
+    height: 100%;
+    margin-left: 10%;
+}
